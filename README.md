@@ -20,7 +20,7 @@ Flynn is here to provide information about me and my work. Enjoy chatting! :D
 
 This is my first ever AI model! :DD
 
-Also you can give Flynn your contact information and it will forward it to me personally! :D
+Also you can give Flynn your contact information and it will forward it to me personally! This is done using the Pushover API which will forward it to my personal phone & email!.
 
 ---
 
