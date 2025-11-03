@@ -20,6 +20,8 @@ Flynn is here to provide information about me and my work. Enjoy chatting! :D
 
 This is my first ever AI model! :DD
 
+Also you can give Flynn your contact information and it will forward it to me personally! :D
+
 ---
 
 Created by Gabriel Bello :3
