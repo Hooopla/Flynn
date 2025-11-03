@@ -76,17 +76,17 @@ class Me:
   def __init__(self):
     self.openai = OpenAI()
     self.name = "Gabriel Bello"
-    reader = PdfReader("../assets/linkedin.pdf")
+    reader = PdfReader("assets/linkedin.pdf")
     self.linkedin = ""
     for page in reader.pages:
       text = page.extract_text()
       if text:
         self.linkedin += text
-    with open("../assets//summary.txt", "r", encoding="utf-8") as f:
+    with open("assets//summary.txt", "r", encoding="utf-8") as f:
       self.summary = f.read()
-    with open("../assets//projects.txt", "r", encoding="utf-8") as f:
+    with open("assets//projects.txt", "r", encoding="utf-8") as f:
       self.projects = f.read()
-    with open("../assets//special.txt", "r", encoding="utf-8") as f:
+    with open("assets//special.txt", "r", encoding="utf-8") as f:
       self.special = f.read()
   
   def handle_tool_call(self, tool_calls):
