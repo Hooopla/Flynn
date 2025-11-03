@@ -2,7 +2,7 @@
 
 Welcome to **Flynn Career AI**! :D
 
-**Flynn** is an AI bot that uses the **OpenAI model** to answer questions about me, Gabriel Bello! :3
+**Flynn** is an AI bot that uses the **OpenAI model** to answer questions about me!
 
 ## Features
 
