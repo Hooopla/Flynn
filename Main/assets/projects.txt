@@ -1,3 +1,27 @@
+Project Title: Engineering_Team_AI
+Project Link: https://github.com/Hooopla/Engineering_Team_AI
+Description: A group of AI agents that are given a prompted task. They are able to create a Python application that has both front-end and back-end. It utilized the latest version of Gradio & Python. Utilizes a total of 3 agents! 
+
+Project Title: Stock_Picker_AI
+Project Link: https://github.com/Hooopla/Stock_Picker_AI
+Description: A group of AI agents that are given a sector. With this the agents will find the best company to invest in (WOULD NOT USE THIS COMMERICIALLY). Utilizes a total of 4 agents! 
+
+Project Title: Financial_Research_AI
+Project Link: https://github.com/Hooopla/Financial_Research_AI
+Description: A group of AI agents that are given a company. This program will generate a report regarding this company with the most latest information it can find on the company.
+
+Project Title: SideKick_AI
+Project Link: https://github.com/Hooopla/Sidekick_AI
+Description: Agents that are able to answer the user's requests! Can utilize PlayWrightTools and more! Fun cool thing is that this AI can run Python in a docker container.
+
+Project Title: Coder_AI
+Project Link: https://github.com/Hooopla/Coder_AI
+Description: Basic agent that is able to run Python Code in a safe enivornment using a Docker Container.
+
+Project Title: Debate_Club_AI
+Project Link: https://github.com/Hooopla/Debate_Club_AI
+Description: Agents that are given a prompt and will simulate a debate. 1 Opposition 1 In-Favour and a judge! :D
+
 Project Title: Land-Grab
 Project Link: https://github.com/Hooopla/Land-Grab
 Description: Land Grab is a grid based game where a total of 3 players will have to beat one another by claiming the largest region with the most cells. Each game, the gameboard is randomized and divided into three distinct regions, each with a different amount of cells. Once the round starts, players must rush to choose a region to claim. Once a region is claimed, it becomes locked, which then prevents other players from selecting it. When everyone has made their selection the game will then choose the winner by selecting the player with the largest region. If one or more players do not choose a region in time, the round will reset with no winner!
@@ -6,10 +30,11 @@ Project Title: Dish-It
 Project Link: https://github.com/CMPT-276-FALL-2024/Dish-It
 Description: It is a website platform that helps users save time, make healthier eating choices, and explore wide varieties of cuisines effortlessly.
 
-Project Title: Hooopi-Foods 
+Project Title: Hooopi-Foods
 Project Link: https://github.com/Hooopla/Hooopi-Foods
-Description: Just a fake website that conceptualizes a potential food delivery comapny!
+Description: Just a fake website that conceptualizes a potential food delivery company!
 
 Project Title: SFU Course Data Analyzer
 Project Link: https://github.com/Hooopla/SFU-Course-Data-Analyzer
-Description: This just analyzes the part course offerings of SFU's many different departments
+Description: This just analyzes the part course offerings of SFU's many different departments.
+
